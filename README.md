@@ -20,6 +20,7 @@ AI-Kavach is a cybersecurity project focused on detecting suspicious threats and
 - Used a combination of **machine learning (Random Forest, SVM)** and **rule-based detection**.  
 - Evaluated using **precision, recall, and F1-score** metrics.  
 
-## Future Scope  
-🚀 The project successfully identifies cyber threats in real-time.  
-🚀 Future improvements include **integrating real-world attack datasets** and deploying as a background service.  
+## 🚀 Future Scope  
+- ✅ Real-time threat detection is implemented.  
+- 🔜 Future plans: **Integrate real-world attack datasets & deploy as a background service.**  
+  
